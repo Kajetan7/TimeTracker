@@ -1,13 +1,6 @@
 # Time Tracker
 
-This is a JavaScript script that interacts with a API to create, update, and delete tasks and their operations. It provides functionality such as:
-
-- Creating a new task with a title, description, and status
-- Deleting a task
-- Creating a new operation for a task with a description and time spent
-- Updating an operation with a new description or time spent
-- Deleting an operation
-- Updating a task with a new title, description, or status
+This is a JavaScript script that interacts with a API to create, update, and delete tasks and their operations. 
 
 ## Usage
 
